@@ -18,7 +18,3 @@ Seja bem-vindo ao meu perfil. Me chamo Gerson Almeida, tenho 24 anos!.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-# Meus Projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HunterWicky&repo=AutoCall&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HunterWicky/AutoCall)
